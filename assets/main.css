@@ -1,0 +1,37 @@
+
+* {
+    padding: 5px;
+    margin: 5px;
+}
+
+@media (max-width: 500px) {
+  body {
+    background-color: white;
+  }
+
+@media (max-height: 850px) {
+  body {
+    background-color: orange;
+
+  }
+
+
+
+.title {
+	font-family: arial;
+
+}
+
+.description {
+font-family: arial;
+
+}
+
+.pol img { 
+width: 1000px;
+  height: 600px;
+  background: white;
+  margin: 30px auto;
+  position: relative;
+
+}
